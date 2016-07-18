@@ -11,9 +11,16 @@ git clone <url>
 ```
 where `<url>` can be found by clicking on the green "Clone or Download" button above.
 
+$$
+\mu + \sigma
+$$
+
 ## Ways to be awesome
 Here are some ways to be awesome:
 
 1. blah
-2. blah
-3. dot, dot, dot...
+1. blah
+1. dot, dot, dot...
+
+## This is me changing this file
+Here are some changes.

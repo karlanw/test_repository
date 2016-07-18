@@ -17,6 +17,6 @@ Here are some ways to be awesome:
 $$
 \mu + \sigma + \tau \delta
 $$
-1. blah, foo bar
+1. blah, no, yes
 1. blah
 1. dot, dot, dot...

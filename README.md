@@ -18,6 +18,9 @@ $$
 ## Ways to be awesome
 Here are some ways to be awesome:
 
+$$
+\mu + \sigma
+$$
 1. blah
 1. blah
 1. dot, dot, dot...

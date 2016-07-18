@@ -19,7 +19,7 @@ $$
 Here are some ways to be awesome:
 
 $$
-\mu + \sigma this is not working
+\mu + \sigma + \tau \delta
 $$
 1. blah, no, yes
 1. blah

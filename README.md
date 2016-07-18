@@ -15,8 +15,8 @@ where `<url>` can be found by clicking on the green "Clone or Download" button a
 Here are some ways to be awesome:
 
 $$
-\mu + \sigma
+\mu + \sigma + \tau \delta
 $$
-1. blah
+1. blah, foo bar
 1. blah
 1. dot, dot, dot...
